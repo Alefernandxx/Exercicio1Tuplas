@@ -1,0 +1,14 @@
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\bin\Debug\net9.0\TuplasERecordsExercicios.exe
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\bin\Debug\net9.0\TuplasERecordsExercicios.deps.json
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\bin\Debug\net9.0\TuplasERecordsExercicios.runtimeconfig.json
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\bin\Debug\net9.0\TuplasERecordsExercicios.dll
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\bin\Debug\net9.0\TuplasERecordsExercicios.pdb
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\obj\Debug\net9.0\TuplasERecordsExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\obj\Debug\net9.0\TuplasERecordsExercicios.AssemblyInfoInputs.cache
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\obj\Debug\net9.0\TuplasERecordsExercicios.AssemblyInfo.cs
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\obj\Debug\net9.0\TuplasERecordsExercicios.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\obj\Debug\net9.0\TuplasERecordsExercicios.dll
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\obj\Debug\net9.0\refint\TuplasERecordsExercicios.dll
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\obj\Debug\net9.0\TuplasERecordsExercicios.pdb
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\obj\Debug\net9.0\TuplasERecordsExercicios.genruntimeconfig.cache
+C:\Users\PC1\Desktop\TuplasERecordsExercicios\obj\Debug\net9.0\ref\TuplasERecordsExercicios.dll
